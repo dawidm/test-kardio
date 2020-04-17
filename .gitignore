@@ -1,0 +1,4 @@
+/env/
+migrations/
+/djkardio/db.sqlite3
+.idea
